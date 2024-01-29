@@ -1,4 +1,4 @@
-# Tech Challenge 01 - Fiap Wine
+# Tech Challenge 01 - Exportação de vinhos
 
 ## Integrantes
 ### Eric Yasugi Aoki
