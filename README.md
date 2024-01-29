@@ -12,4 +12,5 @@
 
 ## Arquivos:
 ### <a href="https://github.com/guipereira42/3DTAT_TC_FIAP_01/blob/main/Tratamento_de_dados_FIAP_Wine.ipynb"> Tratamento de dados</a>
+### <a href="https://github.com/guipereira42/3DTAT_TC_FIAP_01/blob/main/Gr%C3%A1ficos%20-%20Tech_Challenge%201.qvw"> Gráficos Qlik View</a>
 
